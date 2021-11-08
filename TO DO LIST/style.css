@@ -1,0 +1,8 @@
+body {
+    position: relative;
+    color: #666;
+    top: 6rem;
+    left: 18rem;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+}
